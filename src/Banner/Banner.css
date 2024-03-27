@@ -1,0 +1,60 @@
+/* .hero-image {
+    background-image: url("https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: middle;
+    height: 500px;
+    width: 100%;
+} */
+.logo{
+    height: 200px;
+    display: flex;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+}
+.logo2{
+    height: 200px;
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 26%;
+}
+.coffeeshop{
+    /* float: right; */
+
+    padding-left: 310px;
+    padding-top: 120px;
+    text-shadow: -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;  
+    color: rgb(241, 168, 168);
+    font-size: 50px;
+    font-family: "Brush Script MT", Times, cursive;
+
+}
+
+.igtext{
+    /* float: right; */
+    padding-left: 380px;
+    padding-top: 20px;
+    /* position: absolute; */
+    text-shadow: -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;  
+    /* font-weight: bold; */
+    color: rgb(241, 168, 168);
+    font-size: 50px;
+    font-family: "Brush Script MT", Times, cursive;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    /* font-family: "Copperplate", Fantasy; */
+}
+
+
+
+/* .hero-text {
+    font-family: "Brush Script MT", Times, cursive;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #181818;
+    font-size: 50px
+} */

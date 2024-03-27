@@ -1,0 +1,32 @@
+.bgimg {
+    /* background-image: url('https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg'); */
+    height: 1080px;
+    /* background-image: url('https://wallpapercave.com/wp/wp8465535.jpg'); */
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+.text{
+    font-family: "Brush Script MT", Times, cursive;
+    position: relative;
+    max-width: 550px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #d59090;
+    font-size: 60px;
+    margin-top: -73px;
+    text-shadow: -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;  
+}
+
+
+/* .logo{
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    transform: translate(-50%, -40%);
+} */

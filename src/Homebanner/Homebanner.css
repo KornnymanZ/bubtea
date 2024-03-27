@@ -1,0 +1,26 @@
+.hero-image {
+    background-image: url("https://wallpapercave.com/wp/wp8465535.jpg");
+    background-position: 10% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+    height: 1080px;
+    
+
+    /* margin-left: 100px; */
+    /* margin-right: 100px; */
+}
+
+.hero-text {
+    /* background-image: url('https://logos-world.net/wp-content/uploads/2021/09/Lexus-Logo.png'); */
+    text-align: center;
+    position: absolute;
+    font-family: "Brush Script MT", Times, cursive;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #d59090;
+    font-size: 30px;
+    margin-top: 170px;
+    text-shadow: -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;  
+}

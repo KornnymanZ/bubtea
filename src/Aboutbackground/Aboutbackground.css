@@ -1,0 +1,10 @@
+.bgabout {
+    /* background-image: url('https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg'); */
+    height: 720px;
+    /* background-image: url('https://wallpapercave.com/wp/wp8465535.jpg'); */
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }

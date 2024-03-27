@@ -1,0 +1,36 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+h2{
+    align-items: center;
+    text-align: center;
+    border-style: groove;
+    width: 300px;
+    height: 320px;
+    margin-top: -80px;
+    margin-left: 50px;
+    overflow: hidden;
+    /* text-decoration: line-through; */
+  }
+
+  button{
+    font-size: 15px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }

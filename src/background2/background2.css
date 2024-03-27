@@ -1,0 +1,21 @@
+.bgimg5 {
+    background-image: url('https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg');
+    /* background-image: url('https://static.vecteezy.com/system/resources/thumbnails/004/684/788/small/black-and-white-coffee-shop-background-eps-free-vector.jpg'); */
+    height: 720px;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+.bgimg2 {
+    /* background-image: url('https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg'); */
+    /* background-image: url('https://static.vecteezy.com/system/resources/thumbnails/004/684/788/small/black-and-white-coffee-shop-background-eps-free-vector.jpg'); */
+    height: 720px;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}

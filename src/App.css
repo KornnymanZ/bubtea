@@ -1,0 +1,52 @@
+#root {
+  height: 720px;
+  /* margin: 0 auto;
+  padding: 2rem; */
+  text-align: center;
+  /* background-image: url('https://www.lexusoflondon.com/wp-content/uploads/2019/08/fd65a5a64586bce3f0114aafce2f8e6cx.jpg'); */
+}
+
+.logo {
+  height: 10px;
+  padding: 1.5em;
+  will-change: filter;
+  padding-bottom: 40px;
+  /* transition: filter 300ms; */
+}
+
+.logo img {
+  height: 100px;
+}
+
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}

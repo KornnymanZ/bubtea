@@ -1,0 +1,16 @@
+.footer {
+    background-color: rgb(73, 61, 61);
+    padding: 5px;
+    float: bottom;
+}
+
+.footer {
+    float: middle;
+    color: rgb(215, 215, 215);
+    /* border-style: groove; */
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    /* text-shadow: -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;  */
+}

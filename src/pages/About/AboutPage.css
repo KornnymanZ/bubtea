@@ -1,12 +1,15 @@
 table{
     max-height: 100px;
+    border: 1px solid black;
     
 }
 
 th{
     padding:10px;
+    border: 1px solid black;
 }
 td{
     padding:5px;
+    border: 1px solid black;
 }
 

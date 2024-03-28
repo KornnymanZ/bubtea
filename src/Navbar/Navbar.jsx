@@ -10,7 +10,7 @@ export default function Navbar() {
             
             
             {/* <a href="/Todo">ToDos</a> */}
-            <a href="/profile">Contact</a>
+            <a href="/profile">Profile</a>
             <a href="/about">Orders</a>
             <a href="/news">Products</a>
             <a href="/home">Home</a>
